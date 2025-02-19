@@ -1,16 +1,16 @@
 ## Hi there 👋
+✨ Welcome to my GitHub profile! ✨
 
-<!--
-**correabeas/correabeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on
+Full stack web development projects focused on HTML, CSS, JavaScript, React, Python, and SQL.
+Research in Social Sciences, exploring gender and violence in the context of the Rio de Janeiro prison system.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on
+Social impact projects that combine technology and research
+Web applications focused on education, social inclusion, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding or doing research, you’ll find me lifting weights and working on strength training. 🏋️‍♀️💪
+
+📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/beatrizcorr%C3%AAa/
+Email: bcorreacontato@gmail.com
