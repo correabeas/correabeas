@@ -12,5 +12,5 @@ Web applications focused on education, social inclusion, and data-driven solutio
 When I’m not coding or doing research, you’ll find me lifting weights and working on strength training. 🏋️‍♀️💪
 
 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/beatrizcorr%C3%AAa/
+LinkedIn: https://www.linkedin.com/in/correabeatriz/
 Email: bcorreacontato@gmail.com
