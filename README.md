@@ -1,16 +1,20 @@
-## Hi there 👋
-✨ Welcome to my GitHub profile! ✨
+Olá 👋
 
-🔭 I’m currently working on
-Full stack web development projects focused on HTML, CSS, JavaScript, React, Python, and SQL.
-Research in Social Sciences, exploring gender and violence in the context of the Rio de Janeiro prison system.
+✨ Bem-vindo(a) ao meu perfil do GitHub! ✨
 
-👯 I’m looking to collaborate on
-Social impact projects that combine technology and research
-Web applications focused on education, social inclusion, and data-driven solutions.
+🔭 Atualmente, trabalho como Analista de Arquitetura de Sistemas Jr., com atuação em Arquitetura de TI, Governança de APIs e Governança de Dados.
 
-When I’m not coding or doing research, you’ll find me lifting weights and working on strength training. 🏋️‍♀️💪
+💻 Minha trajetória em tecnologia envolve SQL, MySQL, Java, JavaScript, HTML, CSS, APIs REST e desenvolvimento web, além do meu atual aprofundamento em arquitetura de sistemas, dados e cloud.
 
-📫 How to reach me:
+📊 Tenho interesse especial em Governança de Dados, arquitetura de dados, qualidade de dados, metadados, integração, APIs e plataformas de dados. Atualmente, também venho estudando tecnologias e conceitos relacionados ao ecossistema Microsoft Azure, incluindo Microsoft Purview.
+
+🚀 Busco desenvolver soluções que conectem tecnologia, dados e negócio, sempre com foco no valor que a tecnologia pode gerar para as organizações.
+
+📚 Atualmente, também estou ampliando meus conhecimentos em Dados, APIs, Azure e Engenharia de Dados, construindo uma base cada vez mais sólida para atuar em projetos de Governança e Arquitetura de Dados.
+
+🤝 Tenho interesse em colaborar em projetos relacionados a dados, arquitetura, APIs, governança e soluções tecnológicas de impacto.
+
+📫 Como me contatar:
+
 LinkedIn: https://www.linkedin.com/in/correabeatriz/
-Email: bcorreacontato@gmail.com
+E-mail: bcorreacontato@gmail.com
